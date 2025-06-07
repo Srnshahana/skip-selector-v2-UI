@@ -171,6 +171,8 @@ function App() {
             style={{
               flex: '0 0 auto',
               scrollSnapAlign: 'start',
+              marginRight: '22px',
+              marginLeft:'22px',
               width: 'min(90vw, 360px)', 
             }}
           >
